@@ -26,8 +26,8 @@
 <br />
 <br />
 
-[website] :https://uxfol.io/sneh.mehta23
-[Figma] :https://www.figma.com/file/FwGSfKdTYbhcatO41e7rFD/National-Parks?node-id=0%3A1
-[Link] :https://www.100daysofcode.com/
-[LinkedIn] :https://www.linkedin.com/in/snehmehta/
-[CodePen] :https://codepen.io/snehmehta23
+[website]: https://uxfol.io/sneh.mehta23
+[Figma]: https://www.figma.com/file/FwGSfKdTYbhcatO41e7rFD/National-Parks?node-id=0%3A1
+[Link]: https://www.100daysofcode.com/
+[LinkedIn]: https://www.linkedin.com/in/snehmehta/
+[CodePen]: https://codepen.io/snehmehta23
