@@ -1,16 +1,16 @@
 ### Hi there, I'm Sneh! I am a Web Developer / UX Designer looking to create stunning website designs and implement clean, responsive code. 👋
 
 ## I'm in my Senior year at Columbia College Chicago as an Interaction Design major! 🎨
-- 🎨 I'm currently working on my UX [portfolio][website]!
-- ⛰ I'm also currently working with a team in making a progressive webapp for National Park enthusiasts! Keep up [here][Figma]!
+- 🎨 I'm currently working on my UX [portfolio](https://uxfol.io/sneh.mehta23)!
+- ⛰ I'm also currently working with a team in making a progressive webapp for National Park enthusiasts! Keep up [here](https://www.figma.com/file/FwGSfKdTYbhcatO41e7rFD/National-Parks?node-id=0%3A1)!
 - <> In a constant journey to learn more languages and further my coding proficiency. Never...done...learning 😆
 - ⌨ I'm looking to collaborate with more UX designers to make stunning designs
-- 🥅 2021 Goals: Be apart of the [100DaysOfCode][Link] initiative.
+- 🥅 2021 Goals: Be apart of the [100DaysOfCode](https://www.100daysofcode.com/) initiative.
 - 🕹 Fun fact: I was learning game developement prior to finding my passion in UX! 😎 
 
 ## Connect with me:
-[<img align="left" alt="SnehMehta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="SnehMehta | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
+[<img align="left" alt="SnehMehta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/snehmehta/)
+[<img align="left" alt="SnehMehta | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/snehmehta23)
 
 <br />
 
@@ -25,9 +25,3 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 <br />
 <br />
-
-[website]: https://uxfol.io/sneh.mehta23
-[Figma]: https://www.figma.com/file/FwGSfKdTYbhcatO41e7rFD/National-Parks?node-id=0%3A1
-[Link]: https://www.100daysofcode.com/
-[LinkedIn]: https://www.linkedin.com/in/snehmehta/
-[CodePen]: https://codepen.io/snehmehta23
