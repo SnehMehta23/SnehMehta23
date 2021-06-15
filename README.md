@@ -1,8 +1,8 @@
 ### Hi there, I'm Sneh! I am a Web Developer / UX Designer looking to create stunning website designs and implement clean, responsive code. 👋
 
-## I'm in my Senior year at Columbia College Chicago as an Interaction Design major! 🎨
+## I am a graduate from Columbia College Chicago as an Interaction Design major with a focus in UX Design and Frontend Web Development! 🎨
 - 🎨 I'm currently working on my UX [portfolio](https://uxfol.io/sneh.mehta23)!
-- ⛰ I'm also currently working with a team in making a progressive webapp for National Park enthusiasts! Keep up [here](https://www.figma.com/file/FwGSfKdTYbhcatO41e7rFD/National-Parks?node-id=0%3A1)!
+- ⛰ Recently finished up my second sprint working with a team in making a progressive webapp for National Park enthusiasts! Keep up [here](https://national-park-web-app-steel.vercel.app/)!
 - <> In a constant journey to learn more languages and further my coding proficiency. Never...done...learning 😆
 - ⌨ I'm looking to collaborate with more UX designers to make stunning designs
 - 🥅 2021 Goals: Be apart of the [100DaysOfCode](https://www.100daysofcode.com/) initiative.
